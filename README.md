@@ -7,8 +7,8 @@ The files contain following information -
   It contains the derivations of all those above mentioned activation function which is necessary for Backward Propagation.
 3. model.py:
   Here is where the model is created, it has functions
-    a. To initialise parameters i.e., weights and biases, 
-    b. For forward propagation (using activation_func)
+    1. To initialise parameters i.e., weights and biases,
+    2. For forward propagation (using activation_func)
     c. To compute cost by using Binary Cross Entropy/Log loss formula 
     d. For Backward propagation (using derv_activation_function)
     e. For Updating parameters 
