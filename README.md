@@ -14,4 +14,6 @@ The files contain following information -
     5. For Updating parameters
     6. Lastly for fitting the curve by making use of above mentioned functions
   4. At the end using the above created functions to fit for a certain X and Y example using main.py file.
+  
+  This branch will help to understand how forward and backward propagation happens and in a way explain the code for some of the features of Dense Layer which comes in Keras - https://keras.io/api/layers/core_layers/dense/
     
